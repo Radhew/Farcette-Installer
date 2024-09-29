@@ -1,8 +1,6 @@
 # Farcette Installer
 This is an automatic installer for DaThings's YouTube Poop mod for Arzette: The Jewel of Faramore. The normal process of installing isn't hard at all, but I figured it was a nice excuse to make a neat little mod manager for it.
 
-### [Download Here!](https://github.com/Radhew/Farcette-Installer/releases/download/v1.0.0/FarcetteInstaller.exe)
-
 ### This is an unofficial, fanmade installer for the mod. Please do not bother DaThings about issues you may have when using the installer/manager. Instead, please use this page's issue tracker!
 
 ## Compiling
